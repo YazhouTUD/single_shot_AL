@@ -19,7 +19,7 @@ rng('default');
 choice = 2;
 num_repeat = 20; % repeat 20 times
 num_query = [20:20:120]; % varied budgets of the number of queried samples
-num_pseudo = 10; % the number of pseudo annotator
+num_pseudo = 10; % the number of pseudo annotators
 
 addpath(genpath(pwd));
 
