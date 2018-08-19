@@ -5,7 +5,7 @@ Reference: Yang, Yazhou, and Marco Loog. "Single Shot Active Learning using Pseu
 
 ## Installing
 
-Download MVAL (https://github.com/YazhouTUD/MVAL) and add it to the path of Matlab.
+Download MVAL (https://github.com/YazhouTUD/MVAL) and add it to the search path of Matlab.
 
 ## Usage
 
