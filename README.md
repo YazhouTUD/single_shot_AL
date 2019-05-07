@@ -30,7 +30,9 @@ If you are using this code, please cite the following reference:
 Bibtex:
 
 @article{yang2018singleshot,
+
   title={Single Shot Active Learning using Pseudo Annotators},
+  
   author={Yang, Yazhou and Loog, Marco},
   journal={Pattern Recognition},
   volume={89},
