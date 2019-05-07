@@ -1,7 +1,8 @@
 # Single Shot Active Learning
 Matlab code of ''Single Shot Active Learning using Pseudo Annotators"
 
-Reference: Yang, Yazhou, and Marco Loog. "Single Shot Active Learning using Pseudo Annotators." arXiv preprint arXiv:1805.06660 (2018).
+Reference: Yang, Yazhou, and Marco Loog. "Single shot active learning using pseudo annotators." Pattern Recognition 89 (2019): 22-31.
+
 
 ## Installing
 
