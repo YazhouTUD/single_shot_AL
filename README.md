@@ -31,14 +31,20 @@ Bibtex:
 
 @article{yang2018singleshot,
 
-  title={Single Shot Active Learning using Pseudo Annotators},
+    title={Single Shot Active Learning using Pseudo Annotators},
   
-  author={Yang, Yazhou and Loog, Marco},
-  journal={Pattern Recognition},
-  volume={89},
-  number={C},
-  pages={22--31},
-  year={2019},
-  publisher={Elsevier}
+    author={Yang, Yazhou and Loog, Marco},
+  
+    journal={Pattern Recognition},
+  
+    volume={89},
+  
+    number={C},
+  
+    pages={22--31},
+  
+    year={2019},
+  
+    publisher={Elsevier}
 }
 
