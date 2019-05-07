@@ -29,7 +29,7 @@ If you are using this code, please cite the following reference:
 
 Bibtex:
 
-@article{yang2018singleshot,
+    @article{yang2018singleshot,
 
     title={Single Shot Active Learning using Pseudo Annotators},
   
@@ -46,5 +46,5 @@ Bibtex:
     year={2019},
   
     publisher={Elsevier}
-}
+    }
 
