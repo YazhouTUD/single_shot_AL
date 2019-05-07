@@ -30,13 +30,13 @@ If you are using this code, please cite the following reference:
 Bibtex:
 
 @article{yang2018singleshot,
-  author    = {Yazhou Yang and
-               Marco Loog},
-  title     = {Single Shot Active Learning using Pseudo Annotators},
-  journal   = {CoRR},
-  volume    = {abs/1805.06660},
-  year      = {2018},
-  url       = {http://arxiv.org/abs/1805.06660},
-  archivePrefix = {arXiv},
-  eprint    = {1805.06660},
+  title={Single Shot Active Learning using Pseudo Annotators},
+  author={Yang, Yazhou and Loog, Marco},
+  journal={Pattern Recognition},
+  volume={89},
+  number={C},
+  pages={22--31},
+  year={2019},
+  publisher={Elsevier}
 }
+
